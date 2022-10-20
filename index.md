@@ -1,14 +1,37 @@
 ---
 layout: default
 ---
+<details>
+  <summary> Fundamentos de C++ </summary>
+  
+  - [Vector](./pages/fundamentos/vector/)
+  - [Set](./pages/fundamentos/set/)
+</details>
 
-1. [Fundamentos de C++](./pages/fundamentos/)
-  - Vector
-  - Set
-2. [ED's Lineares](./pages/eds_lineares/)
-3. [Ed's não lineares](./pages/eds_nao_lineares/)
-4. [Prefix Sum](./pages/psum/)
-5. [Delta Encoding](./pages/delta_encoding/)
-6. [Busca Completa](./pages/busca_completa/)
-7. [Divisão e Conquista](./pages/divisao_e_conquista/)
-8. [Two Pointers](./pages/two_pointers/)
+<details>
+  <summary> Ed's Lineares </summary>
+</details>
+
+<details>
+  <summary> Ed's Não Lineares </summary>
+</details>
+
+<details>
+  <summary> Prefix Sum </summary>
+</details>
+
+<details>
+  <summary> Delta Encoding </summary>
+</details>
+
+<details>
+  <summary> Busca Completa </summary>
+</details>
+
+<details>
+  <summary> Divisão e Conquista </summary>
+</details>
+
+<details>
+  <summary> Two Pointers </summary>
+</details>
