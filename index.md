@@ -5,7 +5,9 @@ layout: default
   <summary> Fundamentos de C++ </summary>
   
   - [Vector](./pages/fundamentos/vector/)
+  
   - [Set](./pages/fundamentos/set/)
+  
 </details>
 
 <details>
