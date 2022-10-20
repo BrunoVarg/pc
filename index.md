@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-1. Fundamentos de C++=
+1. Fundamentos de C++
   - [Vector](./pages/fundamentos/vector/)
   - [Set](./pages/fundamentos/set/)
 
