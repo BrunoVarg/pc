@@ -1,6 +1,7 @@
 # Vector
 
 ## Inicializar
+
 ```cpp
 #include <bits/stdc++.h>
 using namespace std;
@@ -19,7 +20,7 @@ int main(){
     // v = {0, 0, 0, 0, 5}
 
     v.pop_back();
-    
+
     // v = {0, 0, 0, 0}
 }
 ```
