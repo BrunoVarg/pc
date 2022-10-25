@@ -13,6 +13,14 @@ int main(){
     vector<int> v(4, 0); // {0, 0, 0, 0} vetor de 4 posições com valor 0
 
     vector<int> v(4); // {0, 0, 0, 0} por default, inicializa como 0
+
+    v.push_back(5); // Adiciona o elemento 5
+
+    // v = {0, 0, 0, 0, 5}
+
+    v.pop_back();
+    
+    // v = {0, 0, 0, 0}
 }
 ```
 
