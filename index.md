@@ -2,7 +2,7 @@
 layout: default
 ---
 
-1. Fundamentos de C++</summary>
+1. Fundamentos de C++
   - [Vector](./pages/fundamentos/vector/)
   - [Map](./pages/fundamentos/map/)
   - [Set](./pages/fundamentos/set/)
