@@ -3,6 +3,7 @@ layout: default
 ---
 1. Fundamentos de C++
   - [Vector](./pages/fundamentos/vector/)
+  - [Map](./pages/fundamentos/map/)
   - [Set](./pages/fundamentos/set/)
 
 2. Ed's Lineares
