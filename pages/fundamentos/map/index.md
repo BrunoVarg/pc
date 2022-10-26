@@ -11,6 +11,8 @@ int main(){
     // map chave, valor de inteiros
 
     map<int, int> m; // Inicialização de map vazio
+    
+    {% raw %}map<int, int> m = {{2, 3}, {4, 6}}; // Inicialização de map com valor {% endraw %}
 
     // m[2] = 3
     // m[4] = 6
@@ -26,9 +28,8 @@ using namespace std;
 int main(){
     // iterando por métodos iterator
 
-    map<int, int> m;
-    m[2] = 3;
-    m[4] = 6;
+    {% raw %}map<int, int> m = {{2, 3}, {4, 6}};{% endraw %}
+
 
     // Printa a chave e o valor em cada linha
     for(auto it = m.begin(); it != m.end(); it++){
@@ -50,10 +51,7 @@ using namespace std;
 
 int main(){
     // iterando por métodos iterator
-
-    map<int, int> m;
-    m[2] = 3;
-    m[4] = 6;
+    {% raw %}map<int, int> m = {{2, 3}, {4, 6}};{% endraw %}
 
     if( m[2] ){ // existe uma chave {2}
         cout<< m[2];
