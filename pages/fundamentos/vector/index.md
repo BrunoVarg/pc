@@ -78,7 +78,7 @@ int main(){
 using namespace std;
 
 int main(){
-    vector<pair<int,int>> v = {{1, 2}, {3, 4}, {5, 6}};
+    {% raw %}vector<pair<int,int>> v = {{1, 2}, {3, 4}, {5, 6}};{% endraw %}
 
     // v[0].first = 1
     // v[0].second = 2
