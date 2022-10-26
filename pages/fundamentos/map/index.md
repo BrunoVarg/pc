@@ -10,12 +10,10 @@ using namespace std;
 int main(){
     // map chave, valor de inteiros
 
-    map<int, int> m1; // Inicialização de map vazio
+    map<int, int> m; // Inicialização de map vazio
 
-    map<int, int> m2 = {{2, 3}, {4, 6}} // Inicialização de map com valor
-
-    // m1[2] = 3
-    // m1[4] = 6
+    // m[2] = 3
+    // m[4] = 6
 }
 ```
 
