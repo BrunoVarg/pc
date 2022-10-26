@@ -6,11 +6,11 @@ layout: default
   
   <summary> Fundamentos de C++</summary>
   
-  - [Vector](./pages/fundamentos/vector/)
+  [Vector](./pages/fundamentos/vector/)
   
-  - [Map](./pages/fundamentos/map/)
+  [Map](./pages/fundamentos/map/)
   
-  - [Set](./pages/fundamentos/set/)
+  [Set](./pages/fundamentos/set/)
   
 </details>
 
