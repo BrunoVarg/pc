@@ -53,8 +53,8 @@ int main(){
     // iterando por métodos iterator
     {% raw %}map<int, int> m = {{2, 3}, {4, 6}};{% endraw %}
 
-    if( m[2] ){ // existe uma chave {2}
-        cout<< m[2];
+    if( m.count(2) > 0 ){ // existe uma chave {2}
+        cout<< "Elemento existe";
     }else{
         cout<< "Elemento não existe";
     }
